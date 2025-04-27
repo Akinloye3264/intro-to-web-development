@@ -73,7 +73,7 @@ h2 {
   background-color: white;
   padding: 25px;
   border-radius: 40px;
-  color: blue;
+  color: black;
 }
 
 .journey-image {
@@ -134,3 +134,7 @@ footer {
   color: #444;
 }
 
+a{
+  color: black;
+  text-decoration: none;
+}
